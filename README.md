@@ -1,5 +1,5 @@
 # Zhasa
-Zhasa Fundraising Company website
+## Zhasa Fundraising Company website
 
 Hello, I've created this website for my class work, if you need you can use it for your needs.
 
